@@ -13,7 +13,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 The primary objective of this project is to analyze retail sales data to gain insights into sales performance, customer behavior, and product trends. By leveraging SQL queries, the project aims to:
 
 1.**Retrieve and analyze sales data for specific dates and categories.
-2.**Calculate key metrics such as total sales, average sales, and customer demographics.
+2.Calculate key metrics such as total sales, average sales, and customer demographics.
 3.**Identify top-performing products and customers.
 4.**Understand sales patterns across different time periods and customer segments.
 5.**Provide actionable insights to optimize sales strategies and improve business performance.
