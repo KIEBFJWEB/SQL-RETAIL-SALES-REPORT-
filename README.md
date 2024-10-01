@@ -14,7 +14,7 @@ The primary objective of this project is to analyze retail sales data to gain in
 
 1.**Retrieve and analyze sales data for specific dates and categories.
 
-2.Calculate key metrics such as total sales, average sales, and customer demographics.
+2.**Calculate key metrics such as total sales, average sales, and customer demographics.
 
 3.**Identify top-performing products and customers.
 
